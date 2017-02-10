@@ -1,0 +1,4 @@
+#Enable/Disable true/false
+NoFallDamage: true
+BastBlockBreak: false
+BlockPlace: true

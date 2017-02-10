@@ -1,0 +1,10 @@
+name: jplugins
+main: me.jplugins.ku.Main
+version: 2
+commands:
+  removear:
+    description: Clear Helmet,Chestplate,Leggings,Boots.
+  jp:
+    description: JPlugins status.
+  jpreload:
+    description: JPlugins reload configuration.
